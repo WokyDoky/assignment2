@@ -1,0 +1,193 @@
+/home/seed/PycharmProjects/PythonProject/.venv/bin/python /home/seed/PycharmProjects/PythonProject/main.py
+User user1 created.
+User user2 created.
+User user3 created.
+User user4 created.
+User user5 created.
+User user6 created.
+User user7 created.
+User user8 created.
+User user9 created.
+User user10 created.
+User user11 created.
+User user12 created.
+User user13 created.
+User user14 created.
+User user15 created.
+User user16 created.
+User user17 created.
+User user18 created.
+User user19 created.
+User user20 created.
+User user21 created.
+User user22 created.
+User user23 created.
+User user24 created.
+User user25 created.
+User user26 created.
+User user27 created.
+User user28 created.
+User user29 created.
+User user30 created.
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+systemd-timesync:x:102:104:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:103:106::/nonexistent:/usr/sbin/nologin
+syslog:x:104:110::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+tss:x:106:111:TPM software stack,,,:/var/lib/tpm:/bin/false
+uuidd:x:107:114::/run/uuidd:/usr/sbin/nologin
+tcpdump:x:108:115::/nonexistent:/usr/sbin/nologin
+avahi-autoipd:x:109:116:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
+usbmux:x:110:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
+rtkit:x:111:117:RealtimeKit,,,:/proc:/usr/sbin/nologin
+dnsmasq:x:112:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
+cups-pk-helper:x:113:120:user for cups-pk-helper service,,,:/home/cups-pk-helper:/usr/sbin/nologin
+speech-dispatcher:x:114:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+avahi:x:115:121:Avahi mDNS daemon,,,:/var/run/avahi-daemon:/usr/sbin/nologin
+kernoops:x:116:65534:Kernel Oops Tracking Daemon,,,:/:/usr/sbin/nologin
+saned:x:117:123::/var/lib/saned:/usr/sbin/nologin
+nm-openvpn:x:118:124:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+hplip:x:119:7:HPLIP system user,,,:/run/hplip:/bin/false
+whoopsie:x:120:125::/nonexistent:/bin/false
+colord:x:121:126:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+geoclue:x:122:127::/var/lib/geoclue:/usr/sbin/nologin
+pulse:x:123:128:PulseAudio daemon,,,:/var/run/pulse:/usr/sbin/nologin
+gnome-initial-setup:x:124:65534::/run/gnome-initial-setup/:/bin/false
+gdm:x:125:130:Gnome Display Manager:/var/lib/gdm3:/bin/false
+seed:x:1000:1000:SEED,,,:/home/seed:/bin/bash
+systemd-coredump:x:999:999:systemd Core Dumper:/:/usr/sbin/nologin
+telnetd:x:126:134::/nonexistent:/usr/sbin/nologin
+ftp:x:127:135:ftp daemon,,,:/srv/ftp:/usr/sbin/nologin
+sshd:x:128:65534::/run/sshd:/usr/sbin/nologin
+janedoe:x:1001:1001:Jane Doe,,,:/home/janedoe:/bin/bash
+user1:x:1002:1004::/home/user1:/bin/sh
+user2:x:1003:1005::/home/user2:/bin/sh
+user3:x:1004:1006::/home/user3:/bin/sh
+user4:x:1005:1007::/home/user4:/bin/sh
+user5:x:1006:1008::/home/user5:/bin/sh
+user6:x:1007:1009::/home/user6:/bin/sh
+user7:x:1008:1010::/home/user7:/bin/sh
+user8:x:1009:1011::/home/user8:/bin/sh
+user9:x:1010:1012::/home/user9:/bin/sh
+user10:x:1011:1013::/home/user10:/bin/sh
+user11:x:1012:1014::/home/user11:/bin/sh
+user12:x:1013:1015::/home/user12:/bin/sh
+user13:x:1014:1016::/home/user13:/bin/sh
+user14:x:1015:1017::/home/user14:/bin/sh
+user15:x:1016:1018::/home/user15:/bin/sh
+user16:x:1017:1019::/home/user16:/bin/sh
+user17:x:1018:1020::/home/user17:/bin/sh
+user18:x:1019:1021::/home/user18:/bin/sh
+user19:x:1020:1022::/home/user19:/bin/sh
+user20:x:1021:1023::/home/user20:/bin/sh
+user21:x:1022:1024::/home/user21:/bin/sh
+user22:x:1023:1025::/home/user22:/bin/sh
+user23:x:1024:1026::/home/user23:/bin/sh
+user24:x:1025:1027::/home/user24:/bin/sh
+user25:x:1026:1028::/home/user25:/bin/sh
+user26:x:1027:1029::/home/user26:/bin/sh
+user27:x:1028:1030::/home/user27:/bin/sh
+user28:x:1029:1031::/home/user28:/bin/sh
+user29:x:1030:1032::/home/user29:/bin/sh
+user30:x:1031:1033::/home/user30:/bin/sh
+root:!:18590:0:99999:7:::
+daemon:*:18474:0:99999:7:::
+bin:*:18474:0:99999:7:::
+sys:*:18474:0:99999:7:::
+sync:*:18474:0:99999:7:::
+games:*:18474:0:99999:7:::
+man:*:18474:0:99999:7:::
+lp:*:18474:0:99999:7:::
+mail:*:18474:0:99999:7:::
+news:*:18474:0:99999:7:::
+uucp:*:18474:0:99999:7:::
+proxy:*:18474:0:99999:7:::
+www-data:*:18474:0:99999:7:::
+backup:*:18474:0:99999:7:::
+list:*:18474:0:99999:7:::
+irc:*:18474:0:99999:7:::
+gnats:*:18474:0:99999:7:::
+nobody:*:18474:0:99999:7:::
+systemd-network:*:18474:0:99999:7:::
+systemd-resolve:*:18474:0:99999:7:::
+systemd-timesync:*:18474:0:99999:7:::
+messagebus:*:18474:0:99999:7:::
+syslog:*:18474:0:99999:7:::
+_apt:*:18474:0:99999:7:::
+tss:*:18474:0:99999:7:::
+uuidd:*:18474:0:99999:7:::
+tcpdump:*:18474:0:99999:7:::
+avahi-autoipd:*:18474:0:99999:7:::
+usbmux:*:18474:0:99999:7:::
+rtkit:*:18474:0:99999:7:::
+dnsmasq:*:18474:0:99999:7:::
+cups-pk-helper:*:18474:0:99999:7:::
+speech-dispatcher:!:18474:0:99999:7:::
+avahi:*:18474:0:99999:7:::
+kernoops:*:18474:0:99999:7:::
+saned:*:18474:0:99999:7:::
+nm-openvpn:*:18474:0:99999:7:::
+hplip:*:18474:0:99999:7:::
+whoopsie:*:18474:0:99999:7:::
+colord:*:18474:0:99999:7:::
+geoclue:*:18474:0:99999:7:::
+pulse:*:18474:0:99999:7:::
+gnome-initial-setup:*:18474:0:99999:7:::
+gdm:*:18474:0:99999:7:::
+seed:$6$n8DimvsbIgU0OxbD$YZ0h1EAS4bGKeUIMQvRhhYFvkrmMQZdr/hB.Ofe3KFZQTgFTcRgoIoKZdO0rhDRxxaITL4b/scpdbTfk/nwFd0:18590:0:99999:7:::
+systemd-coredump:!!:18590::::::
+telnetd:*:18590:0:99999:7:::
+ftp:*:18590:0:99999:7:::
+sshd:*:18590:0:99999:7:::
+janedoe:$6$SQMFCKzLnDjpMccP$TKovFu3B9UzlznsTmQQXQNG87EoT9hjVv3LG1mPTH5ZOCxDg.4iRAQwICblFDkTf5nJtJenOUSs3.dLmdYstY/:20123:0:99999:7:::
+user1:$6$FkWh.TVuTPDs5Uy1$wE5Imtq.SjWPRM.rSd5iJx.THZ0JzkTURz1T9omTWJyFiJxnPagPGZtA47vswS10gsnhIgRN.Htb6voY2AdHx.:20135:0:99999:7:::
+user2:$6$LeoXbNCK9had8vUo$7lwpZwaInVZQlUIOevOQs50SZ8rmd5vhpaeDV7Nd4NNUJ9hRsVauwYYuXCfK6xU2r24aFNCkToyCNmWDtwbTP.:20135:0:99999:7:::
+user3:$6$QCY/xNglW447tFNY$jiwx5lAvKQ4sKlI0bhMivO1/e6.248HIEFvMiwhDHaPUsQ/5T8i0cyufuNCcZ.lG9C2.3ylpddD1sbmziO4Bz/:20135:0:99999:7:::
+user4:$6$ESmgBxDSRsNHnbFY$o9e1vKs2BwJbbEr3aM6yDPtLoVjcHcERq66ZC51pEREtRR.vnk7as9m9ET5YIn06vSLb3OZUVJ7ry.L3WU6U4/:20135:0:99999:7:::
+user5:$6$2U5M7A4xiKMZ5742$bIVBGbYIo57CuQT2UXfeYMR7JNxapX7NryYY8LGXv3.Wcr6XUI483n9KTlL1ZWA/BUD/CQNYDQUwzRHM4NrW/0:20135:0:99999:7:::
+user6:$6$UWZMO69XK/MnrbSD$XlGPrPk.g1WdOmBpr0IfhZE5BnaiUXNRyi5dU/yjZXNCdaCgbV/yxW8HrHYIR5m3mhcYNqtPZUvgF6aCJzx8r0:20135:0:99999:7:::
+user7:$6$LVYHFRNoXxUGG8E1$VljJdb8e5PLTipcXouMUmYCz.QpcwxKkq2Wa6wi2rZjr6V7NTppXGRyrTXJCNSeWuA3y5AcshPcGObYSYh4aq.:20135:0:99999:7:::
+user8:$6$2GYidGoAt0h4UusK$EeatFHBcY9f9D1EkFnSHZ7LX3Z1BEv7wwRey4ShaRyqOQqqzX7JekLXEpRAZE8X5sJ3BShJYqc5JcQvWyxP2H/:20135:0:99999:7:::
+user9:$6$iK9iSV/.GuMijEZu$vJ4TquypU0GmlFAVojq20qUxqHg6QtO1BklUsC1Z9YQ/Teo1HI7v5AVKIk4rkHRlsiu4z6iA7vou7cfvuHWv20:20135:0:99999:7:::
+user10:$6$vUqBH1Kn078uZQpz$87HWOvmLhcN29hDzc8HguWDn5JRX.Kr10s4.VhHuLfc8Lwn6HGG4u/11K7egZXfCITKjqhf3d.9xXsxiH5Kb00:20135:0:99999:7:::
+user11:$6$IUdgxoN.CIZAa1V7$Cs.3dLleIwmNcys5EkEmF4H9I9jaEoN0bRdxBJZrtW.qbvHoUx4jaS6xK8dkU84iud92n3xDuThJ595gdAHz.0:20135:0:99999:7:::
+user12:$6$jBKirc5aLecPkahN$9ENCIYFFeY/POYHiSP0kzCHDwO/LGdn5eEoVLc.6iK/5YKFGxLjpo95DoyLhYNTwGBvxpqi6WP7aOslj88fU6.:20135:0:99999:7:::
+user13:$6$1zRXametYFZK/MOs$JTiHY/dryIhkx1PCZGztZxXw15eoeZnaLhffNBOS1unVxC3sHShZCed/dHvpOXUgIqo/JOlb.GVTt32N4mQak1:20135:0:99999:7:::
+user14:$6$8H39JYn0LOtEFhOP$EKq1EPWT7e6cilP/yzb5qu78ghihB.iDOX2gORXSYzR0fGfG30bU5wIVG/XdRNHrZjemFJuSIhB5T00sVmG7v0:20135:0:99999:7:::
+user15:$6$RD8ZUgX36vBqdEtd$91s2zorZcN6a9BEYlJ3CErTazOItBdb.kk4D4qbLxI7.crz7D.2uBsRJ1hKWOyuH4dOZbP.6PuHGw1nXZmv3D/:20135:0:99999:7:::
+user16:$6$28Bm/nlRwaByWdA/$FaZXB1jmC1d4OMYxhjA7NEzRfLUtxhMl02UWlGeklmbvT5G4NH/04KQVglV8TizX5gxb7uhQ.6MCbmL3lkL/91:20135:0:99999:7:::
+user17:$6$O/5jIIk.W025qd3K$sAKbaWxhUwQYoecsSObzdoRl2fOISvL2Z79wTbcAzIz8Qg0ciHXkin1/Ae1NevB.fOCRFZcBEUJP6iOemat8Z0:20135:0:99999:7:::
+user18:$6$MYRs6HrFuW3PjsLT$vY2p7x/YMihlewk8neMZ8bVkU61HkThu1RFHqfG4A5XeofOQpV2Bo2j5mqZOybdvFGRjl0OuhDVGa4uS9NC.g1:20135:0:99999:7:::
+user19:$6$0Ifn0neoRQuFuVmT$.RRR50FgdjforTBQFSfXTlWDu4jvpN27W5UI8c9m8tEi.e6fYBz5vo6hJ2biKKkXE6Kf0HGgy78mJt9gqlXx0.:20135:0:99999:7:::
+user20:$6$9YvzXqcfbjjPKef0$FYKIkFzGv1Q0W2bxD7k2o98jM1iRxvRmQI3iDJ8OxzZSVQ8ZdFnY7rmB5pkaXwqriq/Egolo8I8/gh3cCw1Pj/:20135:0:99999:7:::
+user21:$6$T/gseUFoAbOQSp4z$dfXmPIIMkHY9MMrkrKLFascBg3NBcKF67ufJv7IpM1VC3ZZqQLRbtzJIJFUA8xOZP4wFaU.IYnqOvBKNLW.HC.:20135:0:99999:7:::
+user22:$6$mCcQ6GoUjG4XIpOj$0dqks0LUOJQA0tAfcq6jo622KOIHl8q6UkDvHaMYfzpNAG0xHuUvgEjFRsJxujHFxWHALcI3qgKYvqX60KNJj/:20135:0:99999:7:::
+user23:$6$5BYEuWprjYXXkIn9$V8.RQN7AMLquhxTZy2pDWmqA6SWAua8Mv2fWtrBBt.cyZ7g7SJxT4q.bMRPyqkTaHch394yyO9G8b9PMpEeA91:20135:0:99999:7:::
+user24:$6$0gHZzRN1CTlYC4Oj$lbMhS3zFCxg2ve8jX9Amf1KB4zQNw0MGxSSiJGyexpNP2lLOhXwRbDShgVEvNYAoiBcErIuGV15QGZNM18/mb/:20135:0:99999:7:::
+user25:$6$wU88JldRWHAhwCba$i/.PS3GzrxikgdppZSP/Ad7i40B1CZWDJILFVQUI/21U.VM4OYjTFpDLuqWDhUNoqDTdEOMijBJWF78fPiL/S0:20135:0:99999:7:::
+user26:$6$yD4OeFBAoesuBr8p$.KQXQalSFyHM1Qq5hqMYxkndhaz0EdgFmwGMvu32l7LxNAm2lC.0KyeWdNWyji2lM53D80nC4mzU4SUTiIPLr/:20135:0:99999:7:::
+user27:$6$nb5CFVPM4nXxmwec$uVIzVbuskEZKJYMKI4OVszHiIAz112ciHxfDdENgShoO06nNr4gqGkKc.J7S6tg4o5aruJV9/e.MWW6BqPrL.1:20135:0:99999:7:::
+user28:$6$cu/3gvQD5PzDjn6Y$KFe1xvxNKNl3aH7gJaI5Hl./Z18UHof76K2HSs8q/AvhkRtFnp3dfIt6dmwblitoDEGX2Eo21mh3p0Mr7uPm4/:20135:0:99999:7:::
+user29:$6$t6X31OGFE7/xGSB.$QkefnaEPTL1ei10GjS7HvkekTL1aM5Wf/qFDIo.KI/gNEDjE5.wJb.Lt4jxX7aHSdQ/.M1RQVXS2zzOSv/teg/:20135:0:99999:7:::
+user30:$6$3X200BtqlIrAA7dY$iMwXs4h0qobqHT2YfPMnZGQ7TTVsBeJlyuw3pqSkDcaM/7n1zJRhOLMCtL5u9lsFwXh1tsar2j2VRoFRhX7an1:20135:0:99999:7:::
+
+Process finished with exit code 0
